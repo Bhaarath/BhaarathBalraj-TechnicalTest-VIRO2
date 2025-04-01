@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+
+
+@*<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title - My Kendo UI MVC Application</title>
+    
+    <link href="https://unpkg.com/%40progress/kendo-font-icons/dist/index.css" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <link href="https://kendo.cdn.telerik.com/themes/7.0.2/default/default-ocean-blue.css" rel="stylesheet" type="text/css" />
+    	<link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+	<script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<script src="https://unpkg.com/jszip/dist/jszip.min.js"></script>
+	<script src="https://cdn.kendostatic.com/2025.1.227/js/kendo.all.min.js"></script>
+	<script src="https://cdn.kendostatic.com/2025.1.227/js/kendo.aspnetmvc.min.js"></script>
+</head>*@
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My Telerik MVC Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    	<link href="https://kendo.cdn.telerik.com/themes/7.0.2/bootstrap/bootstrap-main.css" rel="stylesheet" type="text/css" />
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2025.1.211/js/kendo.all.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2025.1.211/js/kendo.aspnetmvc.min.js"></script>
+ 
+    @* Add the bootstrap.min.js script: *@
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+</head>
+
+
+<body class="k-content">
+
+@RenderBody()
+
+<footer class="footer text-center d-flex align-items-center">
+    <div class="container pb-0">
+        <hr/>
+        <p>Copyright &copy; @DateTime.Now.Year Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.</p>
+    </div>
+</footer>
+</body>
+</html>

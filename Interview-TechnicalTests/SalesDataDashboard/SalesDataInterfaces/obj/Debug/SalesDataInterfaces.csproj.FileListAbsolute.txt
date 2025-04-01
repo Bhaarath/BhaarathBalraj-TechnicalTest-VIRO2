@@ -1,0 +1,9 @@
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\bin\Debug\SalesDataInterfaces.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\bin\Debug\SalesDataInterfaces.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\bin\Debug\SalesDataViewModels.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\bin\Debug\SalesDataViewModels.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\obj\Debug\SalesDataInterfaces.csproj.AssemblyReference.cache
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\obj\Debug\SalesDataInterfaces.csproj.CoreCompileInputs.cache
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\obj\Debug\SalesDataInterfaces.csproj.CopyComplete
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\obj\Debug\SalesDataInterfaces.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataInterfaces\obj\Debug\SalesDataInterfaces.pdb

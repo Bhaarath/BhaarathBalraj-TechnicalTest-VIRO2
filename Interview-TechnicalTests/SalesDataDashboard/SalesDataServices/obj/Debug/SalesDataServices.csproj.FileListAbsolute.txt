@@ -1,0 +1,16 @@
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\SalesDataServices.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\SalesDataServices.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\AutoMapper.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\SalesDataInterfaces.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\SalesDataViewModels.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\SalesDataInterfaces.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\SalesDataViewModels.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\AutoMapper.xml
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\obj\Debug\SalesDataServices.csproj.AssemblyReference.cache
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\obj\Debug\SalesDataServices.csproj.CoreCompileInputs.cache
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\obj\Debug\SalesDataServices.csproj.CopyComplete
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\obj\Debug\SalesDataServices.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\obj\Debug\SalesDataServices.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\NLog.config
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\NLog.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataServices\bin\Debug\NLog.xml

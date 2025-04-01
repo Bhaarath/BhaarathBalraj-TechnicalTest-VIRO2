@@ -1,0 +1,3 @@
+2025-04-01 00:19:07.1926|Info|SalesDataServices.CsvSalesDataProvider|Reading sales data from: D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataAPI\App_Data\Data.csv|
+2025-04-01 00:19:16.6491|Info|SalesDataServices.CsvSalesDataProvider|Reading sales data from: D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataAPI\App_Data\Data.csv|
+2025-04-01 00:33:17.7409|Info|SalesDataServices.CsvSalesDataProvider|Reading sales data from: D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataAPI\App_Data\Data.csv|

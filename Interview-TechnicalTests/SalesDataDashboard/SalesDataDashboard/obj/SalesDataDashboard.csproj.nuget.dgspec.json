@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataDashboard\\SalesDataDashboard.csproj": {}
+  },
+  "projects": {
+    "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataDashboard\\SalesDataDashboard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataDashboard\\SalesDataDashboard.csproj",
+        "projectName": "SalesDataDashboard",
+        "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataDashboard\\SalesDataDashboard.csproj",
+        "packagesPath": "C:\\Users\\Nandu\\.nuget\\packages\\",
+        "outputPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataDashboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Nandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj": {
+                "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj"
+              },
+              "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataServices\\SalesDataServices.csproj": {
+                "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataServices\\SalesDataServices.csproj"
+              },
+              "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj": {
+                "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Antlr": {
+              "target": "Package",
+              "version": "[3.5.0.2, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "JQuery": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNet.Razor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.AspNet.Web.Optimization": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Microsoft.Web.Infrastructure": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Modernizr": {
+              "target": "Package",
+              "version": "[2.8.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Respond": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Telerik.FontIcons": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Telerik.Licensing": {
+              "target": "Package",
+              "version": "[1.4.15, )"
+            },
+            "Telerik.SvgIcons": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            },
+            "WebGrease": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj",
+        "projectName": "SalesDataInterfaces",
+        "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj": {
+                "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataServices\\SalesDataServices.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataServices\\SalesDataServices.csproj",
+        "projectName": "SalesDataServices",
+        "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataServices\\SalesDataServices.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj": {
+                "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataInterfaces\\SalesDataInterfaces.csproj"
+              },
+              "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj": {
+                "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj",
+        "projectName": "SalesDataViewModels",
+        "projectPath": "D:\\Daddy-Work-Related\\Interview-TechnicalTests\\SalesDataDashboard\\SalesDataViewModels\\SalesDataViewModels.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

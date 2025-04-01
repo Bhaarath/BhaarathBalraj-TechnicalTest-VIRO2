@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Sales Summary (DataTables)";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Sales Summary (DataTables)</h2>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<table id="salesTable" class="display" style="width:100%">
+    <thead>
+    <tr>
+        <th>Segment</th>
+        <th>Country</th>
+        <th>Product</th>
+        <th>Discount Band</th>
+        <th>Units Sold</th>
+        <th>Mfg Price</th>
+        <th>Sale Price</th>
+        <th>Date</th>
+    </tr>
+    </thead>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $('#salesTable').DataTable({
+            ajax: {
+                url: 'http://localhost:55729/api/sales', 
+                dataSrc: ''
+            },
+            columns: [
+                { data: 'Segment' },
+                { data: 'Country' },
+                { data: 'Product' },
+                { data: 'DiscountBand' },
+                { data: 'UnitsSold' },
+                { data: 'ManufacturingPrice' },
+                { data: 'SalePrice' },
+                { data: 'Date' }
+            ]
+        });
+    });
+</script>

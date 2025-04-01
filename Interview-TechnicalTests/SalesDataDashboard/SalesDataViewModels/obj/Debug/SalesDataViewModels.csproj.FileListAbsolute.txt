@@ -1,0 +1,6 @@
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataViewModels\bin\Debug\SalesDataViewModels.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataViewModels\bin\Debug\SalesDataViewModels.pdb
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataViewModels\obj\Debug\SalesDataViewModels.csproj.AssemblyReference.cache
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataViewModels\obj\Debug\SalesDataViewModels.csproj.CoreCompileInputs.cache
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataViewModels\obj\Debug\SalesDataViewModels.dll
+D:\Daddy-Work-Related\Interview-TechnicalTests\SalesDataDashboard\SalesDataViewModels\obj\Debug\SalesDataViewModels.pdb
